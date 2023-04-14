@@ -70,58 +70,6 @@
 				"md5sum": "f02039a2d74f679478ab471e2b09b69a",
 				"size":1109648,
 				"id": "DE"
-			},
-			{
-				"icon": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/images/ru.png",
-				"listen": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_ru.mp3",
-				"name": {
-				    "default":"русский язык"
-				},
-				"desc":{
-				},
-				"download": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ru.tar.gz",
-				"md5sum": "28c851a6352257476d16a8bb42e8aed7",
-				"size":1125041,
-				"id": "RU"
-			},
-			{
-				"icon": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/images/ko.png",
-				"listen": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_ko.mp3",
-				"name": {
-				    "default":"한국어"
-				},
-				"desc":{
-				},
-				"download": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ko.tar.gz",
-				"md5sum": "f30195d99fc0f00b7447c0a8fac53e2c",
-				"size":914516,
-				"id": "KO"
-			},
-			{
-				"icon": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/images/pt.png",
-				"listen": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/7_putaoya.mp3",
-				"name": {
-				    "default":"Português(Brasil)"
-				},
-				"desc":{
-				},
-				"download": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/package/putaoya.tar.gz",
-				"md5sum": "fe50119992f9d1707bcd40e98dc177fb",
-				"size":2273443,
-				"id": "PTBR"
-			},
-			{
-				"icon": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/images/chinese.png",
-				"listen": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_zh.mp3",
-				"name": {
-				    "default":"Walaszek grubasie"
-				},
-				"desc":{
-				},
-				"download": "https://github.com/Plasq95/vacuumvoicepacks/raw/main/voice_pack.tar.gz",
-				"md5sum": "B1DF07668451CD2B949CE4B33003A7F9",
-				"size":8736399,
-				"id": "WL"
 			}
 		]
 	}
